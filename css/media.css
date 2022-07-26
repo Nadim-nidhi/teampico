@@ -1,0 +1,827 @@
+@media(min-width: 320px) and (max-width: 575.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+}
+	header .inner h1 {
+   
+    font-size: 43px !important;
+}
+header .inner p {
+    font-size: 16px!important;
+}
+header .inner a {
+	font-size: 14px!important;
+	display:inline-block!important;
+	margin-bottom: 6px;
+}
+header .inner {
+    padding: 54px 0px !important;
+    text-align: center!important;
+}
+.what-section h1 {
+    font-size: 30px!important;
+}
+.what-section .pp {
+    font-size: 14px !important;
+  
+    width: 336px !important;
+   
+}
+
+
+.what-section .what h2 {
+  
+    font-size: 16px !important;
+    padding-bottom: 2px !important;
+    padding-top: 20px !important;
+}
+.what-section .what img {
+    height: 60px!important;
+}
+.what-section .what {
+    
+    padding: 15px !important;
+    margin-bottom: 30px!important;
+        width: 240px!important;
+    margin: auto ;
+}
+.what-section .what p {
+    font-size: 13px !important;
+}
+.what-section .row {
+    padding: 25px 0px !important;
+}
+.portfolio h1{
+	font-size: 28px!important
+}
+.btn {
+ 
+    padding: 2px 4px !important;
+    font-size: 12px !important;
+}
+.p-2 {
+    padding: 4px!important;
+}
+.about-section h2{
+	font-size: 40px!important;
+
+}
+.about-section p{
+
+font-size: 14px!important;
+	padding-top: 5px!important;
+	padding-bottom: 22px!important;
+	    width: 277px!important;
+    margin: auto!important;
+	
+}
+.about-section .about1 {
+  
+    width: 280px!important;
+    margin: auto!important;
+}
+.about-section .about1 img {
+    width: 227px !important;
+}
+.about-section .about2 {
+    padding: 0px!important;
+    text-align:center!important;
+}
+.about-section .about2 h3 {
+    font-size: 18px !important;
+    text-align: center!important;
+    padding-top: 20px!important;
+}
+.about-section .about2 p {
+   text-align: center!important;
+    padding-bottom: 2px}
+.about-section .about2 a {
+
+    padding: 2px 9px!important;
+  
+    font-size: 14px!important;
+}
+.talk-section .talk{
+    width:150px!important;
+    margin:auto;
+}
+.talk-section h4 {
+    font-size: 24px!important;
+}
+.offer-section .offer h5 {
+    font-size: 28px!important;
+}
+.offer-section .offer span {
+   
+    width: 60px!important;
+}
+.offer-section .offer p {
+    font-size: 15px!important;
+}
+.offer-section .offer {
+    padding: 8px 20px!important;
+}
+.offer-section .offer p {
+   
+    margin-bottom: 0px!important;
+}
+.offer-section .form-control {
+   
+    padding: 3px 8px!important;
+    font-size: 14px!important;
+  
+}
+.offer-section .offer a {
+    font-size: 14px!important;
+    padding: 3px 8px!important;
+}
+.testimonial-section h6 {
+    font-size: 18px!important;
+}
+.testimonial-section p {
+    font-size: 13px!important;
+
+
+}
+.testimonial-section .inner .p1 {
+ font-size: 10px !important;
+}
+
+.testimonial-section .inner ul li .p2 {
+   
+    font-size: 10px!important;
+}
+.testimonial-section .inner {
+    padding: 5px!important;
+    border-radius: 4px!important;
+    margin:0px;
+}
+.counter-section .counter {
+ 
+    width: 50px!important;
+    height: 50px!important;
+    padding-top: 10px!important;
+}
+.counter-section .counter .num {
+  
+    font-size: 9px!important;
+}
+.counter-section .counter .num1 {
+ 
+    font-size: 9px!important;
+}
+.counter-section .counter p {
+    font-size: 9px!important;
+}
+.counter-section .container {
+   
+    padding-top: 10px!important;
+}
+.plan-section h6 {
+    font-size: 30px!important;
+}
+.plan-section .planp {
+    font-size: 12px!important;
+        padding-bottom: 22px!important;
+}
+.plan-section .plan h6 {
+    font-size: 18px !important;
+}
+.plan-section .plan h2 {
+    font-size: 17px!important;
+}
+.plan-section .plan img {
+    padding: 13px 0px 16px!important;
+    width: 80px!important;
+}
+.plan-section .plan p {
+    font-size: 11px!important;
+}
+.plan-section .plan a {
+    
+    padding: 4px 10px!important;
+    font-size: 13px;
+}
+.plan-section .plana {
+    font-size: 13px!important;
+    padding: 4px 10px!important;
+}
+.plan-section .row{
+    justify-content: center;
+}
+.plan-section .plan:hover {
+    transform: scale(1)!important;
+}
+.plan-section .plan {
+   
+    padding: 10px!important;
+   
+   
+   
+    width: 250px;
+    margin:0px auto 22px !important;
+}
+.post-section .post2 {
+    padding: 0px 0px 10px 5px!important;
+}
+.post-section h1 {
+    font-size: 40px!important;
+}
+.post-section .postp {
+    font-size: 13px!important;
+        margin: 10px 0px 21px 0px!important;
+}
+.post-section .post3 p,.post-section .post2 p,.post-section .post1 p {
+    font-size: 15px!important;
+}
+.post-section .post3 a,.post-section .post2 a,.post-section .post1 a {
+ 
+    font-size: 15px!important;
+}
+.post-section {
+    padding: 50px 0px!important;
+    }
+    .post-section .post1 {
+    padding: 0px 0px 10px 0px!important;
+}
+.post-section .post2 {
+    padding: 0px 0px 10px 0px!important;
+}
+.post-section .post3 {
+    padding: 0px 0px 10px 0px!important;
+}
+.contact-section .contact .con h2 {
+    font-size: 24px!important;
+    margin-bottom: 0px!important;
+}
+.contact-section .contact .con {
+   
+    padding-top: 56px!important;
+}
+.contact-section .contact .con p {
+    margin-bottom: 4px!important;
+    font-size: 11px!important;
+}
+.contact-section .contact1 button {
+   
+    margin-top: 33px!important;
+}
+.contact-section .contact1 .con-inner input {
+   
+    width: 92px!important;
+    
+}
+.contact-section .contact .con h3 {
+    padding: 5px 0px 0px 0px!important;
+    font-size: 18px!important;
+}
+
+
+
+
+
+
+
+
+
+
+}
+@media(min-width: 576px) and (max-width: 767.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+}
+	header .inner h1 {
+   
+    font-size: 60px !important;
+}
+header .inner p {
+    font-size: 21px!important;
+}
+header .inner a {
+	font-size: 15px!important;
+}
+header .inner {
+    padding: 54px 0px !important;
+}
+.what-section h1 {
+    font-size: 40px!important;
+}
+.what-section .pp {
+    font-size: 15px !important;
+  
+    width: 421px !important;
+   
+}
+
+.what-section .center{
+	justify-content: center;
+}
+.what-section .what h2 {
+  
+    font-size: 17px !important;
+    padding-bottom: 2px !important;
+    padding-top: 20px !important;
+}
+.what-section .what img {
+    height: 70px!important;
+}
+.what-section .what {
+    
+    padding: 17px !important;
+    margin-bottom: 20px!important;
+}
+.what-section .what p {
+    font-size: 14px !important;
+}
+.what-section .row {
+    padding: 50px 0px !important;
+}
+.about-section h2{
+	font-size: 40px!important;
+
+}
+.about-section p{
+	font-size: 11px!important;
+	padding-top: 5px!important;
+	padding-bottom: 0px!important;
+	width:516px !important;
+	font-size: 14px;
+	
+}
+.about-section .about1 img {
+    width:200px !important;
+}
+.about-section .about1 {
+    width:246px !important;
+}
+.about-section .about2 {
+    padding: 0px!important;
+    width:246px !important;
+}
+.about-section .about2 h3 {
+    font-size: 20px !important;
+}
+.about-section .about2 p {
+   
+    padding-bottom: 2px}
+.about-section .about2 a {
+
+    padding: 2px 9px!important;
+  
+    font-size: 14px!important;
+}
+.about-section .about2 p {
+    font-size: 18px;
+   
+    padding-bottom: 60px;
+    width: 246px!important;
+}
+.talk-section h4 {
+    font-size: 27px!important;
+}
+
+.offer-section .row{
+    justify-content: right!important;
+}
+.offer-section .col-sm-4{
+    transform: translateY(-98px)!important;
+}
+.testimonial-section h6 {
+    font-size: 45px!important;
+}
+.testimonial-section p {
+    font-size: 13px!important;
+
+
+}
+.testimonial-section .inner .p1 {
+ font-size: 11px !important;
+}
+.testimonial-section .inner {
+   
+    padding: 10px!important;
+    border-radius: 30px;
+}
+.testimonial-section .inner ul li .p2 {
+   
+    font-size: 10px!important;
+}
+.counter-section .counter {
+ 
+    width: 90px!important;
+    height: 90px!important;
+    padding-top: 21px!important;
+}
+.counter-section .counter .num {
+  
+    font-size: 14px!important;
+}
+.counter-section .counter .num1 {
+ 
+    font-size: 14px!important;
+}
+.counter-section .counter p {
+    font-size: 16px!important;
+}
+.counter-section .container {
+   
+    padding-top: 13px!important;
+}
+.plan-section h6 {
+    font-size: 45px!important;
+}
+.plan-section .planp {
+    font-size: 15px!important;
+        padding-bottom: 22px!important;
+}
+.plan-section .plan h6 {
+    font-size: 18px !important;
+}
+.plan-section .plan h2 {
+    font-size: 17px!important;
+}
+.plan-section .plan img {
+    padding: 13px 0px 16px!important;
+    width: 80px!important;
+}
+.plan-section .plan p {
+    font-size: 11px!important;
+}
+.plan-section .plan a {
+    
+    padding: 4px 10px!important;
+    font-size: 13px;
+}
+.plan-section .plana {
+    font-size: 13px!important;
+    padding: 4px 10px!important;
+}
+.plan-section .row{
+    justify-content: center;
+}
+
+
+.post-section .post2 {
+    padding: 0px 0px 10px 5px!important;
+}
+.post-section h1 {
+    font-size: 40px!important;
+}
+.post-section .postp {
+    font-size: 12px!important;
+        margin: 30px 0px 37px 0px!important;
+}
+.post-section .post3 p,.post-section .post2 p,.post-section .post1 p {
+    font-size: 15px!important;
+}
+.post-section .post3 a,.post-section .post2 a,.post-section .post1 a {
+ 
+    font-size: 15px!important;
+}
+.post-section {
+    padding: 50px 0px!important;
+    }
+    .post-section .row{
+    justify-content: center;
+}
+.contact-section .contact .con h3 {
+   
+    padding: 11px 0px 5px 0px!important;
+        font-size: 23px!important;
+}
+.contact-section .contact1 {
+    padding: 0px 26px!important;
+}
+.contact-section .contact1 button {
+   
+    margin-top: 4px!important;
+    padding: 3px 10px!important;
+    font-size: 13px!important;
+}
+.contact-section .contact .con h2 {
+    font-size: 24px!important;
+    margin-bottom: 0px!important;
+}
+.contact-section .contact .con {
+   
+    padding-top: 6px!important;
+}
+.contact-section .contact .con p {
+    margin-bottom: 4px!important;
+    font-size: 12px!important;
+}
+.contact-section .contact1 .con-p {
+   margin-bottom: 0px!important;
+   font-size: 13px!important;
+}
+.contact-section .contact .con h3 {
+    padding: 5px 0px 0px 0px!important;
+    font-size: 18px!important;
+}
+.contact-section .contact .con ul li {
+
+    font-size: 12px!important;
+}
+.contact-section .contact1 h4 {
+    margin-bottom: 0px!important;
+    }
+    .contact-section .contact1 .con-span {
+   
+    margin-bottom: 5px!important;
+}
+.contact-section .contact1 .con-inner {
+    height: 40px!important;
+}
+.contact-section .contactp {
+    font-size: 13px!important;
+}
+.contact-section .contact1 .con-inner input {
+   
+    width: 107px!important;
+    top:43%!important;
+}
+.contact-section .contact1 .con-inner label {
+
+    left: 0px!important;
+    top: 0%!important;
+     transform: translateY(70%)!important;
+  
+}
+
+
+
+
+
+
+
+
+	
+}
+@media(min-width: 768px) and (max-width: 991.99px){
+	.navbar-collapse{
+		background-color:#5ebfc7;
+	}
+	header .navbar-nav li a{
+		transition-duration: 0s;
+	}
+	header .navbar-nav li a:hover,header .navbar-nav li a.active{
+display: inline-block;
+
+
+
+	}
+	header .inner h1 {
+   
+    font-size: 70px !important;
+}
+header .inner p {
+    font-size: 18px!important;
+}
+header .inner a {
+	font-size: 15px!important;
+}
+header .inner {
+    padding: 54px 0px !important;
+}
+
+.what-section h1 {
+    font-size: 50px!important;
+}
+.what-section .pp {
+    font-size: 16px !important;
+  
+    width: 575px !important;
+   
+}
+
+.what-section .what h2 {
+  
+    font-size: 19px !important;
+}
+.what-section .what img {
+    height: 80px!important;
+}
+.what-section .what {
+    
+    padding: 20px !important;
+}
+.what-section .what p {
+    font-size: 15px !important;
+}
+.about-section h2{
+	font-size: 50px!important;
+
+}
+.about-section p{
+	font-size: 14px!important;
+	padding-top: 5px!important;
+	padding-bottom: 20px!important;
+	
+}
+.about-section .about1 img {
+    width: 257px !important;
+}
+.about-section .about2 {
+    padding: 12px!important;
+}
+.about-section .about2 h3 {
+    font-size: 20px !important;
+}
+.about-section .about2 p {
+   
+    padding-bottom: 2px;
+}
+.about-section .about2 a {
+
+    padding: 2px 9px!important;
+  
+    font-size: 14px!important;
+}
+.testimonial-section h6 {
+    font-size: 50px!important;
+}
+.testimonial-section p {
+    font-size: 15px!important;
+
+
+}
+.testimonial-section .inner .p1 {
+ font-size: 11px !important;
+}
+.testimonial-section .inner {
+   
+    padding: 10px!important;
+    border-radius: 30px;
+}
+.testimonial-section .inner ul li .p2 {
+   
+    font-size: 10px!important;
+}
+.counter-section .counter {
+ 
+    width: 110px!important;
+    height: 110px!important;
+    padding-top: 21px!important;
+}
+.counter-section .counter .num {
+  
+    font-size: 20px!important;
+}
+.counter-section .counter .num1 {
+ 
+    font-size: 20px!important;
+}
+.counter-section .counter p {
+    font-size: 22px!important;
+}
+.counter-section .container {
+   
+    padding-top: 22px!important;
+}
+.plan-section h6 {
+    font-size: 45px!important;
+}
+.plan-section .planp {
+    font-size: 15px!important;
+        padding-bottom: 22px!important;
+}
+.plan-section .plan h6 {
+    font-size: 18px !important;
+}
+.plan-section .plan h2 {
+    font-size: 17px!important;
+}
+.plan-section .plan img {
+    padding: 13px 0px 16px!important;
+    width: 80px!important;
+}
+.plan-section .plan p {
+    font-size: 11px!important;
+}
+.plan-section .plan a {
+    
+    padding: 4px 10px!important;
+    font-size: 13px;
+}
+.plan-section .plana {
+    font-size: 13px!important;
+    padding: 4px 10px!important;
+}
+.post-section h1 {
+    font-size: 50px!important;
+}
+.post-section .postp {
+    font-size: 15px!important;
+        margin: 30px 0px 37px 0px!important;
+}
+.post-section .post3 p,.post-section .post2 p,.post-section .post1 p {
+    font-size: 15px!important;
+}
+.post-section .post3 a,.post-section .post2 a,.post-section .post1 a {
+ 
+    font-size: 15px!important;
+}
+.contact-section .contact .con h3 {
+   
+    padding: 11px 0px 5px 0px!important;
+        font-size: 23px!important;
+}
+.contact-section .contact1 {
+    padding: 0px 26px!important;
+}
+.contact-section .contact1 button {
+   
+    margin-top: 4px!important;
+    padding: 3px 10px!important;
+    font-size: 13px!important;
+}
+.contact-section .contact .con h2 {
+    font-size: 30px!important;
+}
+.contact-section .contact .con {
+   
+    padding-top: 6px!important;
+}
+.contact-section .contact .con p {
+    margin-bottom: 4px!important;
+}
+.contact-section .contact1 .con-p {
+   margin-bottom: 0px!important;
+   font-size: 13px!important;
+}
+
+
+
+
+
+	
+}
+@media(min-width: 992px) and (max-width: 1199.99px){
+.what-section .what h2 {
+  
+    font-size: 23px !important;
+}
+.what-section .what img {
+    height: 90px!important;
+}
+.what-section .what {
+    
+    padding: 33px !important;
+}
+.testimonial-section h6 {
+    font-size: 55px!important;
+}
+.testimonial-section p {
+    font-size: 16px!important;
+}
+.counter-section .counter {
+ 
+    width: 150px!important;
+    height: 150px!important;
+    padding-top: 39px!important;
+}
+.counter-section .counter .num {
+  
+    font-size: 20px!important;
+}
+.counter-section .counter .num1 {
+ 
+    font-size: 20px!important;
+}
+.counter-section .counter p {
+    font-size: 22px!important;
+}
+.counter-section .container {
+   
+    padding-top: 22px!important;
+}
+.contact-section .contact .con h3 {
+   
+    padding: 11px 0px 5px 0px!important;
+}
+.contact-section .contact1 {
+    padding: 0px 26px!important;
+}
+.contact-section .contact1 button {
+   
+    margin-top: 51px!important;
+}
+
+
+
+
+
+	
+}
